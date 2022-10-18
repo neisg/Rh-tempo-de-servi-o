@@ -1,2 +1,2 @@
-# Rh-tempo-de-servi-o
+# Rh-tempo-de-servico - Python
 calculo de tempo trabalhado
